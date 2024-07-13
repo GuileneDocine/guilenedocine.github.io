@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CRYPTO</title><link>/</link><description>Recent content on CRYPTO</description><generator>Hugo -- 0.128.2</generator><language>en-us</language><lastBuildDate/><atom:link href="/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CRYPTO</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on CRYPTO</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jul 2024 14:09:10 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 12 Jul 2024 14:09:10 +0100</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Welcome to my page I am here to guide you on CRYPTO . It is a platform dedicated to exploring the world of cryptocurrencies and blockchain technology. Here, you can learn about the latest developments, trends, and applications in the crypto space.
+Our mission. Our mission is to provide accurate and up-to-date information about cryptocurrencies, blockchain, and their implications for the future. We believe that understanding these technologies is crucial for individuals and businesses alike.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Fri, 12 Jul 2024 14:09:10 +0100</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>Basic projects include: Stack overflow projects.
+Example a library management system. Mobile apps development. Example Menstraul flow tracking app. Desktop applications. Example Board chat apps Design of UI. Example CL and GUI. DBMS. </description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>//localhost:1313/skills/</link>
+      <pubDate>Fri, 12 Jul 2024 14:09:10 +0100</pubDate>
+      <guid>//localhost:1313/skills/</guid>
+      <description>Cryptocurrency Development Expertise in building and deploying decentralized applications (dApps) on various blockchain platforms.
+Crypto Trading and Analysis Proficient in market analysis, technical analysis, and cryptocurrency trading strategies.
+Cryptographic Security Knowledgeable in cryptographic algorithms, key management, and secure communication protocols.</description>
+    </item>
+    <item>
+      <title>GlennyDos</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Fri, 12 Jul 2024 13:59:51 +0100</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>DESCRIPTION Here you can get my information from my info details: Name: GUILENE DOCINE Email: glennydos@gmail.com Tele: +237672469627 Address: untarred malingo Buea - SW Nationality: Cameroonian Id number: 101051204 fine fine</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Fri, 12 Jul 2024 13:59:51 +0100</pubDate>
+      <guid>//localhost:1313/resume/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
